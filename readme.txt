@@ -21,4 +21,4 @@ How to do authentication process:
 --> g++ -o server server.cpp -lpari -fpermissive
 	
 3) Finally, Run client code using below command line
---> ./client 1    
+--> ./client p           (Where p can be any number from 1 to 80)  
