@@ -1,4 +1,4 @@
-1. client.cpp --> Client-side c++ code
+* client.cpp --> Client-side c++ code
 
 2. server.cpp --> Server-side c++ code
 
