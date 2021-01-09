@@ -9,10 +9,10 @@
 How to do authentication process:
 
 * Execute client.cpp using below command line
-⋅⋅g++ -o client client.cpp -lpari -fpermissive
+..g++ -o client client.cpp -lpari -fpermissive
 	
 * Execute server.cpp using below command line
-⋅⋅g++ -o server server.cpp -lpari -fpermissive
+..g++ -o server server.cpp -lpari -fpermissive
 	
 * Finally, Run client code using below command line
-⋅⋅./client p           (Where p can be any number from 1 to 80)  
+.../client p           (Where p can be any number from 1 to 80)  
